@@ -1,0 +1,3 @@
+HeadWord,CollocateWord,R1,C1,O_11,MutualInfo,DeltaP1,DeltaP2
+"('documentary', 'JJ')","('coverage', 'NN')",194,13,1,0.005153115673723058,0.005153115673723058,0.07689857450311383
+"('documentary', 'JJ')","('evidence', 'NN')",3405,13,5,0.0014674126992947005,0.0014674126992947005,0.3841837357662938

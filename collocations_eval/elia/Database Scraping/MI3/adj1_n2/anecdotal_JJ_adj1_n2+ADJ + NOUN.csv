@@ -1,0 +1,3 @@
+HeadWord,CollocateWord,R1,C1,O_11,MutualInfo,DeltaP1,DeltaP2
+"('anecdotal', 'JJ')","('evidence', 'NN')",3405,21,10,5.042012635542626,0.002935460449782783,0.4757594616813471
+"('anecdotal', 'JJ')","('information', 'NN')",3921,21,1,1.980732909491224,0.00025249660909959433,0.047121381381702715
